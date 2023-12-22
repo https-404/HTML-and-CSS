@@ -1,0 +1,60 @@
+body{
+    color: blue;
+}
+
+
+img{
+    padding-top: 7%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 844px;
+    height: 300px;
+    width: 70%;
+  
+}
+.blog-text{
+    /* padding-top: 10px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+.heading{
+    
+    display: flex;
+    
+    color: #000;
+    text-align: right;
+    font-family: Segoe UI;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+   
+}
+.editor-detail{
+    color: black;
+    font-family: Segoe UI;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px;
+    display: inline-block;
+}
+
+.Author, .AuthorName{
+    display: inline;
+}
+
+.blog-body{
+    color: #000;
+    text-align: justify;
+    /* pt serif */
+    font-family: PT Serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
