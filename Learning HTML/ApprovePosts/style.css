@@ -1,0 +1,31 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header-Details{
+    width: 100%;
+    height: fit-content;
+    position: fixed;
+    top: 10%;
+}
+h2{
+    padding-left:20px ;
+}
+.page-name{
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    position: fixed;
+    top: 23%;
+    
+}
+
+.card-container{
+    width: 100%;
+    height: fit-content;
+    position: fixed;
+    top: 35%;
+    left: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
